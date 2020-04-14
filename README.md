@@ -1,5 +1,10 @@
 # mkl_ctypes_python
 
+From here:
+```
+https://software.intel.com/en-us/articles/using-intel-mkl-in-your-python-programs
+```
+
 ```
 from ctypes import *
 
